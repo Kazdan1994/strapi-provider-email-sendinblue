@@ -13,7 +13,7 @@
   },
   "main": "./lib",
   "dependencies": {
-    "sib-api-v3-sdk": "^8.2.1"
+    "sib-api-v3-sdk": "^8.3.0"
   },
   "strapi": {
     "isProvider": true
